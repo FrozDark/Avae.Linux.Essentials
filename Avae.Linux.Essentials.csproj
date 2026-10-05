@@ -26,10 +26,10 @@
     <PackageReference Include="Emgu.CV" Version="4.10.0.5680" />
     <PackageReference Include="GtkSharp" Version="3.24.24.95" />
     <PackageReference Include="SecureLocalStorage" Version="2.0.0" />
-    <PackageReference Include="Tmds.DBus" Version="0.21.2">
+    <PackageReference Include="Tmds.DBus" Version="0.92.0">
       <Aliases>TmdsDBus</Aliases>
     </PackageReference>	  
-    <PackageReference Include="Tmds.DBus.Protocol" Version="0.21.2" />
+    <PackageReference Include="Tmds.DBus.Protocol" Version="0.21.3" />
     <PackageReference Include="Tmds.DBus.SourceGenerator" Version="0.0.21">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
